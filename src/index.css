@@ -3,14 +3,11 @@
 @import "tailwindcss";
 
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
   font-family: "Outfit", sans-serif;
 }
 @theme {
-  --color_primary: #2563eb;
-  --color_primary_dull: #1F58D8;
-  --color_light: F1F5F9;
-  --color_borderColor: #c4c7d2;
+  --color-primary: #2563EB;
+  --color-primary-dull: #1F58D8;
+  --color-light: #F1F5F9;
+  --color-borderColor: #c4c7d2;
 }
